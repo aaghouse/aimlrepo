@@ -6,7 +6,8 @@ Jupiter Note Book location:
 https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/Amazon_UCI_ML_coupon_accept_analysis.ipynb 
 
 README File location:
-https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/README.txt.txt
+https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/README.txt
+https://github.com/aaghouse/aimlrepo/edit/main/AmazonML-coupon-analysis/README.md
 
 Detailed Results File location:
 https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/Analysis-results.txt
