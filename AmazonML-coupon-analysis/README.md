@@ -33,6 +33,8 @@ Your final product should be a brief report that highlights the differences betw
 ---------------------------------------------------------------------------------------------------------------------------------------
 Summary of findings: Hypothesis on Coupon acceptance based of the drivers who accepted the coupon
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+![histogram-of-accepted-coupons-by-coupon-category](https://github.com/aaghouse/aimlrepo/assets/90729963/a04b917b-8fb5-417c-9e50-d2f40aeac8e8)
+![bar-gt1time-nkids-nwidowed-marital-status-accept-count](https://github.com/aaghouse/aimlrepo/assets/90729963/c61d5ab9-0152-401a-8afa-c366d3f65cf5)
 Observation:
 Single, married partner and unmarried partners visiting bar > 1 time seem to overwhelmingly accept coupons.
 Timing of the coupon (peak-driving times) offer impacts acceptance rate greatly, best times are 6:00PM, 7:00AM and 10:00AM
@@ -50,6 +52,7 @@ their destination (indicating them reaching their destination is higher
 priority, potentially these are gig workers lyft of Uber). Coupons get
 declined also if they are more than 15 mins or 25Mins to their coupon destination.
 
+![drivers_driving_opp_dir_accepting_coupon](https://github.com/aaghouse/aimlrepo/assets/90729963/9e12ab98-0a1f-4273-ac2d-dc6dd07ee695)
 If we want to get more acceptance of the coupons potential groups of people
 to target are single/married-partner/unmarried-partner groups driving.
 People going to bars more than ones are also good targets. Favorable times to
