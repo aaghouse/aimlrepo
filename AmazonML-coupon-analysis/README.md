@@ -1,15 +1,16 @@
 Author: Abdul Ghouse
 Version: 1.0
 Date: 07/10/2023
+email: aghouse@gmail.com
 
 Jupiter Note Book location:
-https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/Amazon_UCI_ML_coupon_accept_analysis.ipynb 
+- [ ] https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/Amazon_UCI_ML_coupon_accept_analysis.ipynb 
 
 README File location:
-https://github.com/aaghouse/aimlrepo/edit/main/AmazonML-coupon-analysis/README.md
+- [ ] https://github.com/aaghouse/aimlrepo/edit/main/AmazonML-coupon-analysis/README.md
 
 Detailed Results File location:
-https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/Analysis-results.txt
+- [ ] https://github.com/aaghouse/aimlrepo/tree/main/AmazonML-coupon-analysis/Analysis-results.txt
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -66,7 +67,4 @@ get the coupons to be accepted are 6:00PM, 7AM and 10AM. ( peak driving hours)
 It would also be favorable to give the coupons to drivers in the opposite
 direction of their driving destination allowing them time to complete their
 driving goals.
-
-#### Below are some of the technologies used
-- aghouse@gmail.com
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
